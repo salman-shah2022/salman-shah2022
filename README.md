@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salman Shah</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align = "right" alt ="this is a coding animation" width ="400px" src = "https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<img align = "right" alt ="this is a coding animation" width ="400px" src = "https://user-images.githubusercontent.com/114665730/219933871-9fb4b4a0-08ca-4209-826c-b47447e74ecd.png
+">
 
 
 - 🌱 I’m currently learning **React**
